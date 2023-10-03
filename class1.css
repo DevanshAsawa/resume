@@ -1,0 +1,33 @@
+html{
+    background-color: black;
+    color: white;
+}
+
+.h2{
+    background-color: #0a0adf;
+    color:bisque;
+    
+}
+
+.h22{
+    background-color: aquamarine;
+    color:brown;
+}
+.h21{
+    background-color: yellow;
+    color:black;
+}
+
+div{
+    padding: 50px;
+    margin:20px;
+    border: solid yellow;
+    border width: 20px;
+
+}
+
+footer{
+    text-align: center;
+}
+    
+)
